@@ -1,0 +1,11 @@
+.skillSelectField > div > div {
+    color: #4D4D4D !important ;
+    font-size: 12px !important;
+    font-weight: 400;
+}
+
+.skillInput:hover {
+    border: 1px solid "#8BBBFF";
+    outline-width: 1px;
+    outline-color: #8BBBFF;
+}

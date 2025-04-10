@@ -1,0 +1,23 @@
+{
+    "label.title": "ISB Bot",
+    "label.adya": "Diksha",
+    "label.designation": "Isb Interview bot",
+    "label.isb": "ISB",
+    "label.placeholder":"Type or speak about your issue",
+    "label.ok":"OK",
+    "label.enter_date":"Enter Date",
+    "label.thankyou":"Thank you!",
+    "label.tap_to_stop":"Tap to Stop",
+    "label.retry":"Retry",
+    "label.enter_date_range":"Enter Date Range",
+    "label.choose_your_language":"Choose your Language",
+    "label.submit":"Submit",
+    "label.date_warning":"Please select from date first!",
+    "message.thankyou_text":"Thanks for rating us have a great day ahead.",
+    "message.experience_text":"How was your experience?",
+    "message.feedback_text":"Your feedback will help us create a better help support experience",
+    "message.refresh_label":"You are about to refresh this page and lose all your existing session history. Do you want to continue and refresh the page?",
+    "message.recorder_error": "Sorry, there is an issue processing your request at the moment. Please try again later.",
+    "message.recorder_wait": "Please wait while we process your request...",
+    "message.date_range_error":"please select start and end date!"
+}
